@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**brookbeyene/brookbeyene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on building a google form for daily cash report summary
 - 🌱 I’m currently learning Graphql with ActiveRecords 
 - 👯 I’m looking to collaborate on ...
