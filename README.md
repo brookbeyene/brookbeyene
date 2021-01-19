@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me:
 
-[<img align="left" atl="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][<a href="https://www.w3schools.com">[linkedIn]</a>]
+[<a href="https://www.linkedin.com/in/bbeyene/"><img align="left" atl="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>][linkedIn]
 [<img align="left" atl="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
 <br/>
