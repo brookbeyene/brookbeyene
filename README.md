@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building a google form for daily cash report summary
-- 🌱 I’m currently learning Graphql with ActiveRecords 
+- 🌱 I’m currently learning Spring, Reactive and Webflux
 - 💬 Ask me about anything related to Javascript/Python/Java/R/RubyonRails and/or React/Express/NodeJs
 
 ### 📫 How to reach me:
