@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building a Vandelay Finance microservices using Java Spring 
+- 🔭 I’m currently working on building a microservices for Vandelay Finance using Java Spring 
 - 🌱 I’m currently learning Spring Reactive Webflux
 - 💬 Ask me about anything related to Javascript/Python/Java/R/RubyonRails and/or React/Express/NodeJs
 
